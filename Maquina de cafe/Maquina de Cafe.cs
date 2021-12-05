@@ -12,6 +12,7 @@ namespace Maquina_de_cafe
         public Vaso vasosGrandes;
         public Azucarero azucarero;
 
+
         public Vaso getTipoVaso(string tipovaso)
         {
             if (tipovaso == "pequeno")
